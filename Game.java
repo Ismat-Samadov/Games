@@ -12,8 +12,6 @@ public class Game {
 
         // sc.close();
         int number = rng();
-
-
     }
 
     public static int rng() {
