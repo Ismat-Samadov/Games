@@ -5,12 +5,11 @@ import java.lang.Math;
 public class Game {
     public static void main(String[] args) {
         start();
-        // Scanner sc = new Scanner(System.in);
-        // int a = sc.nextInt();
-        // int n = sc.nextInt();
-        // int rng= (int) Math.random()*100 +1 ;
+        Scanner sc = new Scanner(System.in);
+        int a = sc.nextInt();
+        int n = sc.nextInt();
 
-        // sc.close();
+        sc.close();
         int number = rng();
     }
 
